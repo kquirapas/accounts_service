@@ -1,0 +1,6 @@
+/target
+ 
+# Custom
+.env
+.editorconfig
+.DS_Store
